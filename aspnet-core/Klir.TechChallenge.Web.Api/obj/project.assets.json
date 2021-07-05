@@ -722,23 +722,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\e4bar\\.nuget\\packages\\": {},
+    "C:\\Users\\AYOOLA\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\e4bar\\Desktop\\OneDrive\\KlirStuff\\_RH\\Tech Challenge\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
+      "projectUniqueName": "G:\\VisualStudioProjects\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
       "projectName": "Klir.TechChallenge.Web.Api",
-      "projectPath": "C:\\Users\\e4bar\\Desktop\\OneDrive\\KlirStuff\\_RH\\Tech Challenge\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
-      "packagesPath": "C:\\Users\\e4bar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\e4bar\\Desktop\\OneDrive\\KlirStuff\\_RH\\Tech Challenge\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\obj\\",
+      "projectPath": "G:\\VisualStudioProjects\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
+      "packagesPath": "C:\\Users\\AYOOLA\\.nuget\\packages\\",
+      "outputPath": "G:\\VisualStudioProjects\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\e4bar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AYOOLA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -789,7 +789,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

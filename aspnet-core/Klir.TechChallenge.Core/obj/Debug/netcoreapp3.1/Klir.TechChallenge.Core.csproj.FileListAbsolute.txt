@@ -1,0 +1,9 @@
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Core.deps.json
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Core.dll
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Core.pdb
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Core.csprojAssemblyReference.cache
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Core.AssemblyInfoInputs.cache
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Core.AssemblyInfo.cs
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Core.csproj.CoreCompileInputs.cache
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Core.dll
+G:\VisualStudioProjects\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Core\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Core.pdb

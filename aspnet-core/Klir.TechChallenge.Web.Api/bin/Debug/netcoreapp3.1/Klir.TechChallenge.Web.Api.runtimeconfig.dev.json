@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\e4bar\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\e4bar\\.nuget\\packages",
+      "C:\\Users\\AYOOLA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AYOOLA\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
